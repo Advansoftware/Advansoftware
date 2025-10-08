@@ -32,11 +32,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Advansoftware&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Advansoftware&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Advansoftware&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Advansoftware&theme=tokyo-night&hide_border=true&custom_title=Gráfico%20de%20Atividade" alt="Activity Graph"/>
 </div>
 
 ### 📈 Métricas Detalhadas
@@ -78,17 +78,19 @@
   <img src="https://github.com/Advansoftware/Advansoftware/blob/main/achievements.svg" alt="Achievements" />
 </div>
 
-### 📊 Estatísticas Detalhadas
+### 📊 Estatísticas em Tempo Real
 
 <div align="center">
 
-|      📊 **Estatística**      |                                                                                             📈 **Valor**                                                                                              |
-| :-------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     🔥 **Streak Atual**      | ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Advansoftware&theme=dark&hide_border=true&currStreakLabel=FFDD44&dates=FFDD44&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF) |
-| 📦 **Repositórios Públicos** |            ![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdvansoftware&color=brightgreen)             |
-|      👥 **Seguidores**       |                                                     ![Followers](https://img.shields.io/github/followers/Advansoftware?logo=github&style=social)                                                     |
-|    ⭐ **Estrelas Totais**    |        ![Stars](https://img.shields.io/badge/dynamic/json?logo=github&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAdvansoftware&color=yellow)         |
+| 📊 **Métrica** | � **Informação** |
+|:-------------:|:---------------:|
+| ![GitHub Stats](https://img.shields.io/github/followers/Advansoftware?style=flat-square&logo=github&label=Seguidores&color=blue) | ![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Repositórios&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdvansoftware&color=brightgreen&style=flat-square) |
+| ![Stars](https://img.shields.io/github/stars/Advansoftware?style=flat-square&logo=github&label=Total%20de%20Estrelas&color=yellow) | ![Profile Views](https://komarev.com/ghpvc/?username=Advansoftware&color=blueviolet&style=flat-square&label=Visualizações) |
 
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Advansoftware&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub Streak Extended"/>
 </div>
 
 ---
