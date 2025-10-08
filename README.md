@@ -153,7 +153,14 @@
 
 ---
 
-## 📈 Contribuições
+## � Atividade Recente no GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## �📈 Contribuições
 
 <div align="center">
   <img src="https://github.com/Advansoftware/Advansoftware/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
