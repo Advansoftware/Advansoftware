@@ -158,8 +158,8 @@
 ## � Atividade Recente no GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [Advansoftware/FinWise](https://github.com/Advansoftware/FinWise)
-2. 🗣 Commented on [#2](https://github.com/Advansoftware/FinWise/pull/2#issuecomment-3590120301) in [Advansoftware/FinWise](https://github.com/Advansoftware/FinWise)
+1. ❌ Merged PR [#3](undefined) in [Advansoftware/FinWise](https://github.com/Advansoftware/FinWise)
+2. 💪 Opened PR [#3](undefined) in [Advansoftware/FinWise](https://github.com/Advansoftware/FinWise)
 3. 💪 Opened PR [#2](undefined) in [Advansoftware/FinWise](https://github.com/Advansoftware/FinWise)
 4. 🔒 Closed issue [#7](https://github.com/Advansoftware/DashboardTvonline/issues/7) in [Advansoftware/DashboardTvonline](https://github.com/Advansoftware/DashboardTvonline)
 5. 🔒 Closed issue [#9](https://github.com/Advansoftware/DashboardTvonline/issues/9) in [Advansoftware/DashboardTvonline](https://github.com/Advansoftware/DashboardTvonline)
